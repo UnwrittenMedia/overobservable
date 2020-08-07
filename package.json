@@ -1,0 +1,25 @@
+{
+  "name": "overobservable",
+  "version": "0.0.1",
+  "description": "Observable notification system that allows async controllers to easily update react and other ui framework views.",
+  "main": "over.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnwrittenMedia/overobservable.git"
+  },
+  "keywords": [
+    "observable",
+    "observables",
+    "react",
+    "react-native"
+  ],
+  "author": "Unwritten Media",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UnwrittenMedia/overobservable/issues"
+  },
+  "homepage": "https://github.com/UnwrittenMedia/overobservable#readme"
+}
